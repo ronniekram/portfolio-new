@@ -1,0 +1,12 @@
+@import './global';
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: auto;
+  background: $primary;
+  font-family: $header;
+  color: $accentTwo;
+}
